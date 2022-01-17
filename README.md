@@ -1,5 +1,7 @@
 # Deepfake detection
 
+Deepfake detection based on two branch learning framework.
+
 ## Installation
 
 Install Anaconda environment from the `environment.yml` file:
