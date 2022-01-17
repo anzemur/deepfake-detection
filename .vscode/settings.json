@@ -1,0 +1,12 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": false,
+  "python.linting.lintOnSave": true,
+  "python.linting.pylintArgs": [
+    "--indent-string=\"  \"",
+    "--generated-members=numpy.* ,torch.*"
+  ],
+  "cSpell.words": [
+    "Xception"
+  ]
+}
